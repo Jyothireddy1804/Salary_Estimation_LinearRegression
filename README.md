@@ -2,7 +2,7 @@
 
 This project is a machine learning model for predicting salary based on input parameters. It utilizes a Linear Regression algorithm and provides a user-friendly interface through a Streamlit web application. This README will guide you through the project, explain its purpose, and help you get started.
 
-https://likhithsalarypredictionmodel.streamlit.app/
+https://applicationonsalaryprediction.streamlit.app/
 
 ## Table of Contents
 - [Introduction](#introduction)
