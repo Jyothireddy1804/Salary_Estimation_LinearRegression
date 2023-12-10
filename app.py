@@ -20,7 +20,7 @@ st.write("Enter your details below and click 'Predict Salary' to get your predic
 
 
 # Collect input data from the user
-input_age = st.number_input('Age', min_value=22, max_value=60)
+input_age = st.number_input('Age', (22-60) min_value=22, max_value=60)
 input_gender = st.radio('Gender', ['Male', 'Female'])
 input_education_level = st.selectbox('Education Level', ["Bachelor's", "Master's", 'PhD'])
 #input_job_title = st.text_input('Job Title')
